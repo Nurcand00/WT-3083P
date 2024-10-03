@@ -1,0 +1,7 @@
+.fonts{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+a:hover{
+    color: rgb(29, 46, 61) !important;
+}
